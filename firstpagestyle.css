@@ -1,0 +1,22 @@
+nav{
+    background: #ff7f50;
+}
+body{
+    background: #FFC380;
+}
+#home_page_banner{
+    width: 80%;
+}
+.jumbotron{
+    text-align: center;
+    background: #5AB9E0;
+}
+#name_of_resto {
+    font-family: 'Lobster', cursive !important;
+}
+h1{
+    font-family: 'Lobster', cursive !important;
+}
+p{
+    text-align: justify;
+}
